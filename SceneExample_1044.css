@@ -1,0 +1,642 @@
+#SceneExample_1044 {
+            fill-opacity: 0;
+            stroke-opacity: 0;
+            animation: animate-SceneExample_1044 1.166667s 7.333333s linear 1 forwards;
+            }
+            @keyframes animate-SceneExample_1044 {
+            0.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-3.925926 5.0,-3.851852 5.0,-3.777778');
+
+}
+1.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-3.711111 5.0,-3.422222 5.0,-3.133333');
+
+}
+2.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-3.496296 5.0,-2.992593 5.0,-2.488889');
+
+}
+4.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-3.281481 5.0,-2.562963 5.0,-1.844444');
+
+}
+5.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-3.066667 5.0,-2.133333 5.0,-1.2');
+
+}
+7.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-2.851852 5.0,-1.703704 5.0,-0.555556');
+
+}
+8.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-2.637037 5.0,-1.274074 5.0,0.0888889');
+
+}
+10.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-2.422222 5.0,-0.844444 5.0,0.733333');
+
+}
+11.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-2.207407 5.0,-0.414815 5.0,1.377778');
+
+}
+12.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.992593 5.0,0.0148148 5.0,2.022222');
+
+}
+14.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.777778 5.0,0.444444 5.0,2.666667');
+
+}
+15.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.562963 5.0,0.874074 5.0,3.311111');
+
+}
+17.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.348148 5.0,1.303704 5.0,3.955556');
+
+}
+18.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+20.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+21.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+22.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+24.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+25.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+27.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+28.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+30.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+31.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+32.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+34.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+35.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+37.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+38.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+40.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+41.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+42.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+44.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+45.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+47.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+48.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+50.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+51.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+52.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+54.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+55.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+57.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+58.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+60.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+61.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+62.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+64.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+65.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+67.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+68.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+70.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+71.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+72.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+74.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+75.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+77.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+78.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+80.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+81.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+82.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+84.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+85.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+87.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+88.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+90.000% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+91.429% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+92.857% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+94.286% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+95.714% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+97.143% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+98.571% {
+fill: #fff;
+fill-opacity: 0.0;
+stroke: #29abca;
+stroke-width: 0.02;
+stroke-opacity: 1.0;
+d: path('M 5.0,-4.0 C 5.0,-1.333333 5.0,1.333333 5.0,4.0');
+
+}
+100.000% {
+fill-opacity: 0;
+stroke-opacity: 0;
+
+}
+}
